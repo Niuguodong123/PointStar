@@ -14,6 +14,8 @@
 		EE709B1B1C224B4700487C7F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE709B1A1C224B4700487C7F /* Images.xcassets */; };
 		EE709B1E1C224B4700487C7F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EE709B1C1C224B4700487C7F /* LaunchScreen.xib */; };
 		EE709B2A1C224B4700487C7F /* PointStarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EE709B291C224B4700487C7F /* PointStarTests.m */; };
+		EE709B351C224C6300487C7F /* button_star_white@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EE709B331C224C6300487C7F /* button_star_white@2x.png */; };
+		EE709B361C224C6300487C7F /* button_star_red@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EE709B341C224C6300487C7F /* button_star_red@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		EE709B231C224B4700487C7F /* PointStarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PointStarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE709B281C224B4700487C7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EE709B291C224B4700487C7F /* PointStarTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PointStarTests.m; sourceTree = "<group>"; };
+		EE709B331C224C6300487C7F /* button_star_white@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button_star_white@2x.png"; sourceTree = "<group>"; };
+		EE709B341C224C6300487C7F /* button_star_red@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button_star_red@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +86,8 @@
 			isa = PBXGroup;
 			children = (
 				EE709B111C224B4700487C7F /* AppDelegate.h */,
+				EE709B331C224C6300487C7F /* button_star_white@2x.png */,
+				EE709B341C224C6300487C7F /* button_star_red@2x.png */,
 				EE709B121C224B4700487C7F /* AppDelegate.m */,
 				EE709B141C224B4700487C7F /* ViewController.h */,
 				EE709B151C224B4700487C7F /* ViewController.m */,
@@ -201,7 +207,9 @@
 			files = (
 				EE709B191C224B4700487C7F /* Main.storyboard in Resources */,
 				EE709B1E1C224B4700487C7F /* LaunchScreen.xib in Resources */,
+				EE709B351C224C6300487C7F /* button_star_white@2x.png in Resources */,
 				EE709B1B1C224B4700487C7F /* Images.xcassets in Resources */,
+				EE709B361C224C6300487C7F /* button_star_red@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
